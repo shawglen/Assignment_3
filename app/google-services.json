@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "37268364951",
+    "firebase_url": "https://sptodoapp-86471.firebaseio.com",
+    "project_id": "sptodoapp-86471",
+    "storage_bucket": "sptodoapp-86471.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37268364951:android:d122923d049982af",
+        "android_client_info": {
+          "package_name": "com.example.gl_sha.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37268364951-i5b9ukfei063r8a2suk4gujh3fhe4kg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARRozGlhwCmjOZ2wOl4jOYDPTOxtiNn3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37268364951:android:eb81d23bc15c184d",
+        "android_client_info": {
+          "package_name": "ca.glenshaw.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37268364951-i5b9ukfei063r8a2suk4gujh3fhe4kg7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARRozGlhwCmjOZ2wOl4jOYDPTOxtiNn3U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="ca.glenshaw.todo.AboutActivity">
+
+
+    <TextView
+        android:id="@+id/textViewDescription"
+        android:layout_width="354dp"
+        android:layout_height="236dp"
+        android:text="@string/about_description"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp"/>
+
+    <TextView
+        android:id="@+id/textViewProgrammerName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/about_programmer_name"
+        tools:layout_editor_absoluteX="26dp"
+        tools:layout_editor_absoluteY="272dp"/>
+
+    <ImageButton
+        android:id="@+id/imageButtonProgrammerPhoto"
+        android:layout_width="323dp"
+        android:layout_height="160dp"
+        app:srcCompat="@drawable/glen"
+        tools:layout_editor_absoluteX="35dp"
+        tools:layout_editor_absoluteY="306dp"/>
+</LinearLayout>
